@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 sock shop Project https://github.com/microservices-demo/microservices-demo/tree/master
+
+Eshop one Project 
+
+https://github.com/MicrosoftLearning/eShopOnWeb
