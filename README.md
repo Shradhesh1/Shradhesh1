@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shradhesh1
 - 👀 I’m interested in Devops keen towards kubernetes 
-- 🌱 I’m currently learning enhancing the Dev-Ops Gitops skills 
+- 🌱 I’m currently learning enhancing the Dev-Ops Gitops,AI-OPS,ML-OPS skills 
 - 💞️ I’m looking to collaborate on ...remote work
 - 📫 How to reach me https://www.linkedin.com/in/shradhesh-pathak-66398799
 - 😄 Pronouns: ... shradhesh 
